@@ -6,16 +6,14 @@
 
 💡 &nbsp;I like to work on innovative ideas. Getting a life changing product in hands of billion people is my dream\
 🎓 &nbsp;Current Student Pursuing Bachelor of Information Technology.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for any App or Website Development.\
 ✉️ &nbsp;You can email at mati02official@gmail.com! \
 📄 &nbsp;Please have a look at my [Résumé](https://mathesht.000webhostapp.com/assets/Resume.pdf) for more details about me!
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=A8B9CC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -26,8 +24,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whitee)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-ffff?style=flat&logo=android&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
