@@ -43,7 +43,7 @@
 <a href="https://mathesht.000webhostapp.com/"><img src="https://img.shields.io/badge/-MatheshPortfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mathesh-t/"><img src="https://img.shields.io/badge/-Mathesh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mati02official@gmail.com"><img src="https://img.shields.io/badge/-mati02official@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@mati_02k-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/mati_02k/"><img src="https://img.shields.io/badge/-@mati_02k-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/mathesh.t.737/"><img src="https://img.shields.io/badge/-Mathesh-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/Mathesh0208"><img src="https://img.shields.io/badge/-mati02official-D14836?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/mati02official"><img src="https://img.shields.io/badge/-mati02official-D14836?style=flat&logo=hackerrank&logoColor=white"/></a>
