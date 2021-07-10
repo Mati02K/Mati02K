@@ -1,4 +1,4 @@
-![Mathesh Quasar Tech Solutions Banner](https://raw.githubusercontent.com/Mati02K/Mati02K/master/assets/mathesh.png)
+![Mathesh Quasar Tech Solutions Banner](https://raw.githubusercontent.com/Mati02K/Mati02K/master/assets/mathesh.jpg)
 
 <img alt="HI" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Everyone. I am Mathesh</h2>
 
