@@ -4,9 +4,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to work on innovative ideas. Getting a life changing product in hands of billion people is my dream\
-🎓 &nbsp;Current Student Pursuing Bachelor of Information Technology.\
-💬 &nbsp;Feel free to reach out to me for any App or Website Development.\
+💡 &nbsp; I like to work on innovative ideas. Getting a life-changing product into the hands of a billion people is my dream\
+👨🏻‍💻 &nbsp; Currently working as a Software Engineer at Qualcomm in the WiFi division. Working on Automating new features in WiFi-7 like Multi-Link operation.\
+🎓 &nbsp; My Undergrad :- Bachelor of Information Technology.\
+💬 &nbsp; Feel free to reach out to me for any App or Website Development.\
 ✉️ &nbsp;You can email at mati02official@gmail.com! \
 📄 &nbsp;Please have a look at my [Résumé](https://mathesht.000webhostapp.com/assets/Resume.pdf) for more details about me!
 
