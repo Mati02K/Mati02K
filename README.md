@@ -2,15 +2,6 @@
 
 <img alt="HI" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Everyone. I am Mathesh</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I like to work on innovative ideas. Getting a life-changing product into the hands of a billion people is my dream.\
-👨🏻‍💻 &nbsp; Currently working as a Software Engineer at Qualcomm in the WiFi division. Working on Automating new features in WiFi-7 like Multi-Link operation.\
-🎓 &nbsp; My Undergrad :- Bachelor of Information Technology.\
-💬 &nbsp; Feel free to reach out to me for any App / Website Development or any NLP Projects.\
-✉️ &nbsp;You can email at mati02official@gmail.com! \
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
